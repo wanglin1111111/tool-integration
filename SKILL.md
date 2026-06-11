@@ -1,4 +1,4 @@
----
+﻿---
 name: tool-integration
 version: 1.0.0
 author: wanglin1111111
@@ -13,7 +13,7 @@ description: |
 ## Skill: github
 
 ---
-name: github-cli
+name: tool-integration
 description: "使用 gh CLI 与 GitHub 交互。使用 gh issue、gh pr、gh run 和 gh api 进行 Issue、PR、CI 运行和高级查询。"
 ---
 
